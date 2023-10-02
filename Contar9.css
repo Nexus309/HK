@@ -1,0 +1,51 @@
+.contar-9-child {
+  position: absolute;
+  top: -4px;
+  left: -8px;
+  width: 376px;
+  height: 656px;
+  mix-blend-mode: color-burn;
+}
+.image-4-icon2 {
+  position: absolute;
+  top: 94px;
+  left: 66px;
+  width: 228px;
+  height: 243px;
+  object-fit: cover;
+}
+.contar-9-item,
+.vamos-contar-nmeros1 {
+  position: absolute;
+  top: 17px;
+  left: 52px;
+}
+.contar-9-item {
+  top: 414px;
+  left: 101px;
+  border-radius: 50%;
+  background-color: rgba(140, 1, 226, 0.71);
+  width: 158px;
+  height: 158px;
+  cursor: pointer;
+}
+.div1 {
+  position: absolute;
+  top: 429px;
+  left: 150px;
+  font-size: 96px;
+  font-family: Kavivanar;
+  display: inline-block;
+  width: 59px;
+  height: 127px;
+}
+.contar-9 {
+  position: relative;
+  background-color: rgba(229, 28, 246, 0.75);
+  width: 100%;
+  height: 640px;
+  text-align: left;
+  font-size: 36px;
+  color: #fff;
+  font-family: "Just Me Again Down Here";
+}

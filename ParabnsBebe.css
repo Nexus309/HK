@@ -1,0 +1,45 @@
+.parabns-bebe-item {
+  position: absolute;
+  top: -4px;
+  left: -8px;
+  width: 376px;
+  height: 656px;
+  mix-blend-mode: color-burn;
+}
+.parabns {
+  position: absolute;
+  top: 108px;
+  left: 134px;
+}
+.imagem-2023-09-27-171959137-re-icon {
+  position: absolute;
+  top: 0;
+  left: -7px;
+  width: 360px;
+  height: 147px;
+  object-fit: cover;
+}
+.meu-amor-minha {
+  margin: 0;
+}
+.meu-amor-minha-container {
+  position: absolute;
+  top: 180px;
+  left: 11px;
+  font-size: 13.5px;
+  font-family: "Leckerli One";
+  text-align: left;
+  display: inline-block;
+  width: 454px;
+  height: 534px;
+}
+.parabns-bebe1 {
+  position: relative;
+  background-color: rgba(229, 28, 246, 0.75);
+  width: 100%;
+  height: 640px;
+  text-align: center;
+  font-size: 30px;
+  color: #fff;
+  font-family: "Lavishly Yours";
+}

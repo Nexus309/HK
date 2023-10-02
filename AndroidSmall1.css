@@ -1,0 +1,272 @@
+.frame-child {
+  top: 0;
+  background-color: rgba(158, 13, 247, 0.86);
+  height: 180px;
+}
+.contar-nmeros,
+.frame-child,
+.frame-item {
+  position: absolute;
+  left: 0;
+  width: 180px;
+}
+.frame-item {
+  top: 126px;
+  background-color: rgba(120, 14, 157, 0.66);
+  height: 54px;
+  mix-blend-mode: darken;
+}
+.contar-nmeros {
+  top: 128px;
+  display: inline-block;
+  height: 52px;
+}
+.image-4-icon {
+  position: absolute;
+  top: 10px;
+  left: 29px;
+  width: 122px;
+  height: 116px;
+  object-fit: cover;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 360px;
+  left: -2px;
+  backdrop-filter: blur(4px);
+  border: 2px solid #380657;
+  box-sizing: border-box;
+  width: 184px;
+  height: 184px;
+  cursor: pointer;
+}
+.continhas1 {
+  position: absolute;
+  top: calc(50% + 35px);
+  left: calc(50% - 56px);
+  display: inline-block;
+  width: 108px;
+  height: 52px;
+}
+.image-3-icon {
+  position: absolute;
+  top: 4px;
+  left: 40px;
+  width: 99px;
+  height: 122px;
+  object-fit: cover;
+}
+.rectangle-group {
+  position: absolute;
+  top: 360px;
+  left: 178px;
+  backdrop-filter: blur(4px);
+  border: 2px solid #380657;
+  box-sizing: border-box;
+  width: 184px;
+  height: 184px;
+  cursor: pointer;
+}
+.pintar {
+  position: absolute;
+  top: calc(50% + 36px);
+  left: calc(50% - 41px);
+  display: inline-block;
+  width: 78px;
+  height: 52px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 18px;
+  left: 4px;
+  width: 172px;
+  height: 100px;
+  object-fit: cover;
+}
+.rectangle-container {
+  position: absolute;
+  top: 540px;
+  left: 180px;
+  backdrop-filter: blur(4px);
+  border: 2px solid #380657;
+  box-sizing: border-box;
+  width: 184px;
+  height: 184px;
+  cursor: pointer;
+}
+.frases-por-completar {
+  position: absolute;
+  top: calc(50% + 40px);
+  left: calc(50% - 92px);
+  display: inline-block;
+  width: 180px;
+  height: 42px;
+}
+.image-2-icon {
+  position: absolute;
+  top: 0;
+  left: 35px;
+  width: 110px;
+  height: 122px;
+  object-fit: cover;
+}
+.frame-div {
+  position: absolute;
+  top: 540px;
+  left: -2px;
+  backdrop-filter: blur(4px);
+  border: 2px solid #380657;
+  box-sizing: border-box;
+  width: 184px;
+  height: 184px;
+  font-size: 27px;
+}
+.frame-child5,
+.frame-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ff00e6;
+  width: 360px;
+  height: 269px;
+}
+.frame-child6 {
+  background-color: #d9d9d9;
+  backdrop-filter: blur(4px);
+  border: 1px solid #000;
+  box-sizing: border-box;
+  mix-blend-mode: screen;
+}
+.line-div {
+  top: -5px;
+  left: -5px;
+  border-right: 10px solid #b215cc;
+  width: 10px;
+  height: 279px;
+}
+.frame-child7,
+.frame-child8,
+.line-div {
+  position: absolute;
+  background-color: #d9d9d9;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  mix-blend-mode: darken;
+}
+.frame-child7 {
+  top: 6px;
+  left: 0;
+  border-top: 10px solid #b215cc;
+  width: 360px;
+  height: 10px;
+}
+.frame-child8 {
+  top: -5px;
+  left: 345px;
+  border-right: 10px solid #b215cc;
+  width: 10px;
+  height: 279px;
+}
+.hello-kitty-head-1 {
+  position: absolute;
+  top: 25px;
+  left: 126px;
+  width: 109px;
+  height: 80px;
+  object-fit: cover;
+}
+.kuromi-png-photos-1-icon,
+.pompompurin-png-photo-1-icon {
+  position: absolute;
+  top: 150px;
+  left: 216px;
+  width: 134px;
+  height: 119px;
+  object-fit: cover;
+}
+.kuromi-png-photos-1-icon {
+  top: 134px;
+  left: 10px;
+  width: 145px;
+  height: 142px;
+}
+.bem-vinda-minha-beb {
+  position: absolute;
+  top: 0;
+  left: 4.5px;
+  display: inline-block;
+  width: 221px;
+  height: 45px;
+}
+.parabns-bebe-child {
+  position: absolute;
+  top: calc(50% - 26.5px);
+  left: calc(50% - 120.75px);
+  width: 241px;
+  height: 61px;
+  mix-blend-mode: color-burn;
+  cursor: pointer;
+}
+.parabns-bebe {
+  position: absolute;
+  top: 105px;
+  left: 67px;
+  width: 225.5px;
+  height: 45px;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 360px;
+  height: 269px;
+  font-size: 30px;
+  color: #90039c;
+}
+.frame-child9,
+.vamos-fazer-joguinhos {
+  position: absolute;
+  top: 19px;
+  left: 83px;
+}
+.frame-child9 {
+  top: -2px;
+  left: -2px;
+  background-color: #d9d9d9;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+  border: 2px solid #6f0b92;
+  box-sizing: border-box;
+  width: 364px;
+  height: 97px;
+  mix-blend-mode: color-burn;
+}
+.vamos-fazer-joguinhos-parent {
+  position: absolute;
+  top: 269px;
+  left: 0;
+  width: 360px;
+  height: 93px;
+  font-size: 30px;
+  color: #ff00e6;
+}
+.feito-com-muito {
+  position: absolute;
+  top: 722px;
+  left: 20px;
+  font-size: 32px;
+  font-family: "Lavishly Yours";
+  display: inline-block;
+  width: 320px;
+  height: 48px;
+}
+.android-small-1 {
+  position: relative;
+  background-color: rgba(191, 60, 194, 0.72);
+  width: 100%;
+  height: 788px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 36px;
+  color: #fff;
+  font-family: "Just Me Again Down Here";
+}

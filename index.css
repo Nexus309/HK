@@ -1,0 +1,14 @@
+.continhas-child {
+  position: absolute;
+  top: -4px;
+  left: -8px;
+  width: 376px;
+  height: 656px;
+  mix-blend-mode: color-burn;
+}
+.continhas {
+  position: relative;
+  background-color: rgba(229, 28, 246, 0.75);
+  width: 100%;
+  height: 640px;
+}
