@@ -17,3 +17,15 @@
   font-family: "Just Me Again Down Here";
 }
 
+.centralized-text {
+  font-family: "Just me again down her";
+  color: white;
+  text-align: center;
+}
+
+.bottom-bordered-input {
+  border: none;
+  border-bottom: 1px solid black;
+  width: 50%;
+  margin: auto;
+}
