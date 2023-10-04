@@ -3,6 +3,19 @@
   background-color: rgba(158, 13, 247, 0.86);
   height: 180px;
 }
+.centralized-text {
+  font-family: "Just me again down her";
+  color: white;
+  text-align: center;
+}
+
+.bottom-bordered-input {
+  border: none;
+  border-bottom: 1px solid black;
+  width: 50%;
+  margin: auto;
+}
+
 .contar-nmeros,
 .frame-child,
 .frame-item {
