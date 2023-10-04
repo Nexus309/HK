@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, width=device-width" />
 
-    <link rel="stylesheet" href="./index.css" />
+    <link rel="stylesheet" href="./Continhas.css" />
     <link
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Just Me Again Down Here:wght@400&display=swap"
@@ -23,111 +23,10 @@
     />
   </head>
   <body>
-    <div class="android-small-1">
-      <div class="rectangle-parent" id="frameContainer">
-        <div class="frame-child"></div>
-        <div class="frame-item"></div>
-        <div class="contar-nmeros">Contar números</div>
-        <img class="image-4-icon" alt="" src="./public/image-4@2x.png" />
-      </div>
-      <div class="rectangle-group" id="frameContainer1">
-        <div class="frame-child"></div>
-        <div class="frame-item"></div>
-        <div class="continhas">Continhas</div>
-        <img class="image-3-icon" alt="" src="./public/image-3@2x.png" />
-      </div>
-      <div class="rectangle-container" id="frameContainer2">
-        <div class="frame-child"></div>
-        <div class="frame-item"></div>
-        <div class="pintar">Pintar</div>
-        <img class="image-1-icon" alt="" src="./public/image-1@2x.png" />
-      </div>
-      <div class="frame-div">
-        <div class="frame-child"></div>
-        <div class="frame-item"></div>
-        <div class="frases-por-completar">Frases por completar</div>
-        <img class="image-2-icon" alt="" src="./public/image-2@2x.png" />
-      </div>
-      <div class="rectangle-parent1">
-        <div class="frame-child5"></div>
-        <div class="frame-child6"></div>
-        <div class="line-div"></div>
-        <div class="frame-child7"></div>
-        <div class="frame-child8"></div>
-        <img
-          class="hello-kitty-head-1"
-          alt=""
-          src="./public/hello-kitty-head-1@2x.png"
-        />
-
-        <img
-          class="pompompurin-png-photo-1-icon"
-          alt=""
-          src="./public/pompompurinpngphoto-1@2x.png"
-        />
-
-        <img
-          class="kuromi-png-photos-1-icon"
-          alt=""
-          src="./public/kuromipngphotos-1@2x.png"
-        />
-
-        <div class="parabns-bebe">
-          <div class="bem-vinda-minha-beb">Bem-Vinda, minha bebé!!</div>
-          <img
-            class="parabns-bebe-child"
-            alt=""
-            src="./public/rectangle-31.svg"
-            id="rectangle10"
-          />
-        </div>
-      </div>
-      <div class="vamos-fazer-joguinhos-parent">
-        <div class="vamos-fazer-joguinhos">Vamos fazer joguinhos!</div>
-        <div class="frame-child9"></div>
-      </div>
-      <div class="feito-com-muito">Feito com muito amor e carinho 💜</div>
+    <div class="continhas1">
+      <img class="continhas-child" alt="" src="./public/rectangle-3.svg" />
+      <div class="centralized-text">1+1</div>
+      <input type="text" id="answer" class="bottom-bordered-input" />
     </div>
-    <div class="centralized-text">1+1</div>
-    <input type="text" id="answer" class="bottom-bordered-input" />
-
-    <script>
-      var frameContainer = document.getElementById("frameContainer");
-      if (frameContainer) {
-        frameContainer.addEventListener("click", function (e) {
-          window.location.href = "./Contar.html";
-        });
-      }
-
-      var frameContainer1 = document.getElementById("frameContainer1");
-      if (frameContainer1) {
-        frameContainer1.addEventListener("click", function (e) {
-          window.location.href = "./Continhas.html";
-        });
-      }
-
-      var frameContainer2 = document.getElementById("frameContainer2");
-      if (frameContainer2) {
-        frameContainer2.addEventListener("click", function (e) {
-          window.location.href = "./Pintar.html";
-        });
-      }
-
-      var rectangle10 = document.getElementById("rectangle10");
-      if (rectangle10) {
-        rectangle10.addEventListener("click", function (e) {
-          window.location.href = "./ParabnsBebe.html";
-        });
-      }
-      
-      document.getElementById('answer').addEventListener('change', function() {
-  var answer = this.value;
-  if (answer == '2') {
-    window.location.href = 'success.html';
-  } else {
-    window.location.href = 'failure.html';
-  }
-});
-    </script>
   </body>
 </html>
