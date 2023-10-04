@@ -1,0 +1,34 @@
+.succes-child {
+  position: absolute;
+  top: -4px;
+  left: -8px;
+  width: 376px;
+  height: 656px;
+  mix-blend-mode: color-burn;
+}
+.parabns {
+  margin: 0;
+}
+.parabns-11-container {
+  position: absolute;
+  top: 360px;
+  left: 115px;
+}
+.keroppi-happy0-removebg-previe-icon {
+  position: absolute;
+  top: 45px;
+  left: 35px;
+  width: 289px;
+  height: 315px;
+  object-fit: cover;
+}
+.succes {
+  position: relative;
+  background-color: rgba(229, 28, 246, 0.75);
+  width: 100%;
+  height: 640px;
+  text-align: left;
+  font-size: 40px;
+  color: #fff;
+  font-family: "Just Me Again Down Here";
+}
