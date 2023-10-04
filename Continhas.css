@@ -21,11 +21,17 @@
   font-family: "Just me again down her";
   color: white;
   text-align: center;
+   display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .bottom-bordered-input {
-  border: none;
+  border: solid;
   border-bottom: 1px solid black;
-  width: 50%;
+  width: 10%;
   margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
