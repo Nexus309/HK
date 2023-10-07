@@ -42,7 +42,7 @@
         <div class="pintar">Pintar</div>
         <img class="image-1-icon" alt="" src="./public/image-1@2x.png" />
       </div>
-      <div class="frame-div">
+      <div class="frame-div" id="frameContainer3">
         <div class="frame-child"></div>
         <div class="frame-item"></div>
         <div class="frases-por-completar">Frases por completar</div>
@@ -111,6 +111,13 @@
         });
       }
 
+      var frameContainer3 = document.getElementById("frameContainer3");
+      if (frameContainer3) {
+        frameContainer3.addEventListener("click", function (e) {
+          window.location.href = "./frases0.html";
+        });
+      }
+      
       var rectangle10 = document.getElementById("rectangle10");
       if (rectangle10) {
         rectangle10.addEventListener("click", function (e) {
